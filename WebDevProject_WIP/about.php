@@ -255,8 +255,8 @@ $user_name = $_SESSION['user_name'] ?? null;
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2329.401580492886!2d-8.463897922998228!3d54.27916317257446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x485ee84ef3fb4b37%3A0xc76b5b21d985fb79!2sAtlantic%20Technological%20University%20Sligo!5e0!3m2!1sen!2sie!4v1741345125578!5m2!1sen!2sie" width="100%" height="100%" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 </div>
                 <address style="margin-bottom: 30px;">
-                    ATU Sligo & ATU St Angelas<br>
-                    College Rd, Sligo, Ireland<br>
+                    College Name<br>
+                    College Rd, Location<br>
                     <a href="tel:+35371915000">(071) 915 0000</a><br>
                     <a href="mailto:info@codesnippet.example">info@codesnippet.example</a>
                 </address>
